@@ -5,7 +5,6 @@ Welcome to the Comfy House Recording website! This project is a simple e-commerc
 ## Table of Contents
 
 - [Features](#features)
-- [Getting Started](#getting-started)
 
 ## Features
 
